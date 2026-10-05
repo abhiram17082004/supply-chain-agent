@@ -1,5 +1,8 @@
 # Supply Chain Intelligence Agent
 
+🔗 **Live Demo:** [supply-chain-agent-abhiram.streamlit.app](https://supply-chain-agent-abhiram.streamlit.app)
+💻 **GitHub:** [abhiram17082004/supply-chain-agent](https://github.com/abhiram17082004/supply-chain-agent)
+
 A production-grade conversational AI agent that answers natural language questions about supply chain data. Built with **LangGraph**, **Groq**, **RAG**, and **Streamlit** — at **zero cost**.
 
 ---

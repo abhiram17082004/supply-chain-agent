@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Raw data only (7MB CSV not needed on cloud — processed files are committed)
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
